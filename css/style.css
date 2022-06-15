@@ -24,6 +24,10 @@
     color: var(--white);
 }
 
+iframe {
+    align-items: center;
+}
+
 ::-webkit-scrollbar {
     height: .5rem;
     width: 1rem;
